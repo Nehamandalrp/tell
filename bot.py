@@ -12,7 +12,7 @@ from telegram.ext import (
 # CONFIGURATION
 # ============================================================
 
-BOT_TOKEN = "8990029460:AAHWuEoKynKu8t-yvDpeoXewkTXz1pqjJJw"
+BOT_TOKEN = "8990029460:AAFo8NpBUU6nOCmp5-YR1jyI52e3vi6QP2s"
 
 # Admin ka numeric Telegram Chat ID
 ADMIN_CHAT_ID = 8200494184
