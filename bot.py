@@ -513,8 +513,8 @@ async def button_handler(
         ]
 
         await query.edit_message_text(
-            "❓ Need Help?\n\n"
-            "Please contact our support team.",
+            "❓ @raniivideo , @sanju100K \n\n"
+            "Please contact our support team. And Wait For Reply ",
             reply_markup=InlineKeyboardMarkup(keyboard)
         )
 
