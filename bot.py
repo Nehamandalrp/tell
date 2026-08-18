@@ -7,7 +7,28 @@ from telegram.ext import (
     ContextTypes,
     filters,
 )
+import os
+from threading import Thread
+from flask import Flask
 
+# Dummy Web Server (Render ko 24/7 active rakhne ke liye)
+web_app = Flask("")
+
+
+@web_app.route("/")
+def home():
+    return "Bot is running 24/7!"
+
+
+def run_web():
+    port = int(os.environ.get("PORT", 8080))
+    web_app.run(host="0.0.0.0", port=port)
+
+
+def keep_alive():
+    t = Thread(target=run_web)
+    t.daemon = True
+    t.start()
 # ============================================================
 # CONFIGURATION
 # ============================================================
