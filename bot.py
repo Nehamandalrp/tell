@@ -51,7 +51,7 @@ CATEGORY_DETAILS = {
     },
     "category_2": {
         "name": "ᴍᴏᴍ sᴏɴ",
-        "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 399₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 599₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$ \n  \n Demo link - https://t.me/+KiUcrvqVKZNkOTg1",
+        "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 399₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 599₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$ \n  \n Demo link - https://t.me/+KiUcrvqVKZNkOTg1 ",
     },
     "category_3": {
         "name": "ʀ@2ᴘ€",
@@ -67,7 +67,7 @@ CATEGORY_DETAILS = {
     },
     "category_6": {
         "name": "ꜰᴀɪᴍʟʏ sᴘʏ",
-        "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 399₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 599₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$ \n  \n Demo link - https://t.me/+KiUcrvqVKZNkOTg1",
+        "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 399₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 599₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$ \n  \n Demo link - https://t.me/+KiUcrvqVKZNkOTg1 ",
     },
 }
 
@@ -168,9 +168,6 @@ PACKAGE_DETAILS = """
 \nIf Are you interested \n 👇
 
 
- 
-
-YOUR PACKAGE DETAILS
 """
 
 
