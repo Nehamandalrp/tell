@@ -46,7 +46,7 @@ ADMIN_CHAT_ID = 8200494184
 CATEGORY_DETAILS = {
     "category_1": {
         "name": "C------P",
-        "photo": "Qr.jpg",
+        "photo": "https://kommodo.ai/i/cDqa60qH4sS9bGwcT3Cr",
         "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 299₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 499₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$\n  \n   ",
         
     },
