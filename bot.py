@@ -627,9 +627,30 @@ def main():
 
     print("🤖 Bot is running...")
 
-    app.run_polling()
+    app.run_polling() 
 
+
+
+# ============================================================
+# AUTOMATIC IMAGE ASSIGNMENT FOR CATEGORIES 1 TO 6
+# (File ke sabse niche ye code paste karein)
+# ============================================================
+
+# Ye code Category 1 se 6 tak apne aap images set kar dega:
+# Category 1 -> Qr.jpg
+# Category 2 -> qr2.jpg
+# Category 3 -> qr3.jpg
+# Category 4 -> qr4.jpg
+# Category 5 -> qr5.jpg
+# Category 6 -> qr6.jpg
+
+if "CATEGORY_DETAILS" in globals():
+    for i in range(1, 7):
+        cat_key = f"category_{i}"
+        if cat_key in CATEGORY_DETAILS:
+            CATEGORY_DETAILS[cat_key]["image"] = f"qr{i}.jpg"
 
 if __name__ == "__main__":
     keep_alive()
-    main()
+    main() 
+
