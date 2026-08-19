@@ -636,7 +636,7 @@ def main():
 # ============================================================
 
 # Ye code Category 1 se 6 tak apne aap images set kar dega:
-# Category 1 -> Qr.jpg
+# Category 1 -> Uqr.jpg
 # Category 2 -> qr2.jpg
 # Category 3 -> qr3.jpg
 # Category 4 -> qr4.jpg
