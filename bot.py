@@ -33,7 +33,7 @@ def keep_alive():
 # CONFIGURATION
 # ============================================================
 
-BOT_TOKEN = "8990029460:AAFo8NpBUU6nOCmp5-YR1jyI52e3vi6QP2s"
+BOT_TOKEN = "8591077006:AAHsR6bbQYPmT39rqR4qYReB1_Evrn7iUj8"
 
 # Admin ka numeric Telegram Chat ID
 ADMIN_CHAT_ID = 8200494184
