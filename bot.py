@@ -35,7 +35,7 @@ def keep_alive():
 # CONFIGURATION
 # ============================================================
 
-BOT_TOKEN = "8860299949:AAH4HDID24zCOG-M8Ckyp38aCTaCuK3prQI"
+BOT_TOKEN = "8860299949:AAH4HDID24zCOG-M8Ckyp38aCTaCuK3p"
 
 # Admin ka numeric Telegram Chat ID
 ADMIN_CHAT_ID = 7672627998
@@ -87,10 +87,10 @@ BINANCE_DETAILS = """
 💳 Binance
 
 UID:
-1176282510
+987633019
 
-Username:
-sanjudox
+
+
 
 Step 1️⃣ Send Payment
 
@@ -571,7 +571,7 @@ BINANCE_DETAILS = """
 💳 Binance
 
 UID:
-1176282510
+987633019
 
 Username:
 sanjudox
