@@ -746,13 +746,13 @@ def payment_keyboard():
                 callback_data="payment_binance"
             ),
             InlineKeyboardButton(
-                "✅ PayPal",
+                "✅ QR ",
                 callback_data="payment_paypal"
             ),
         ],
         [
             InlineKeyboardButton(
-                "✅ Remitly",
+                "✅ QR",
                 callback_data="payment_remitly"
             ),
             InlineKeyboardButton(
@@ -766,7 +766,7 @@ def payment_keyboard():
                 callback_data="payment_upi"
             ),
             InlineKeyboardButton(
-                "✅ Revolut",
+                "✅ QR",
                 callback_data="payment_revolut"
             ),
         ],
