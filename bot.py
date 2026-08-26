@@ -38,7 +38,7 @@ def keep_alive():
 BOT_TOKEN = "8860299949:AAH4HDID24zCOG-M8Ckyp38aCTaCuK3prQI"
 
 # Admin ka numeric Telegram Chat ID
-ADMIN_CHAT_ID = 8200494184
+ADMIN_CHAT_ID = 7672627998
 
 
 # ============================================================
@@ -49,32 +49,32 @@ CATEGORY_DETAILS = {
     "category_1": {
         "name": "C------P",
         "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 299₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 499₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$\n  \n   ",
-        "image": "image1.jpg"
+        "image": "-"
     },
     "category_2": {
         "name": "ᴍᴏᴍ sᴏɴ",
         "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n\n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 299₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 499₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$ \n  \n  ",
-        "image": "image2.jpg"
+        "image": "-"
     },
     "category_3": {
         "name": "ʀ@2ᴘ€",
         "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n\n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 299₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 499₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$–– \n  \n  ",
-        "image": "image3.jpg"
+        "image": "-"
     },
     "category_4": {
         "name": "ᴅᴇꜱɪ ᴍᴍꜱ",
         "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n\n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 299₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 499₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$\n  \n  ",
-        "image": "image4.jpg"
+        "image": "-"
     },
     "category_5": {
         "name": "sᴄʜᴏᴏʟ ᴠɪᴅᴇᴏ",
         "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n\n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 299₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 499₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$ \n  \n  ",
-        "image": "image5.jpg"
+        "image": "-"
     },
     "category_6": {
         "name": "ꜰᴀɪᴍʟʏ sᴘʏ",
         "text": "🔥300+ 𝗠𝗘𝗗𝗜𝗔 / 700+  𝗠𝗘𝗗𝗜𝗔.\n🔥 𝗟𝗜𝗙𝗘𝗧𝗜𝗠𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦𝗛𝗜𝗣 \n \n✅ ꜱᴍᴀʟʟ ᴘᴀᴄᴋ 𝗥𝗦 • 299₹/-\n✅ ʙɪɢ ᴘᴀᴄᴋ 𝗥𝗦 • 499₹/-\nɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ 👇\n✅ ꜱᴍᴀʟʟ  PACK •  15$\n✅ ʙɪɢ ᴘᴀᴄᴋ •  25$ \n  \n  ",
-        "image": "image6.jpg"
+        "image": "-"
     },
 }
 
@@ -103,7 +103,7 @@ PAYPAL_DETAILS = """
 💳 PayPal
 
 PayPal:
-Username - @Rajkamalhero  
+dm - @allcollectionvDM  
 Step 1️⃣ Send Payment
 
 Step 2️⃣ Send Payment Screenshot For Verification
@@ -131,13 +131,13 @@ UPI_DETAILS = """
 💳 UPI
 
 UPI ID:
-sanjubaba-international@cnrb 
+ 
 """
 
 REVOLUT_DETAILS = """
 💳 Revolut
 
-@Raniivideo Dm me 
+@allcollectionvDM Dm me 
 """
 
 CRYPTO_DETAILS = """
@@ -145,18 +145,14 @@ CRYPTO_DETAILS = """
 
 ⭐ USDT Address  with Network 🛜 
 
-ETH -   0x22c9fe0319ddad833f3fe13fb942140aa79dff34
-SOL -     F7ANEJ8vfyFhR4VEnmobyeBPWqeJEWTLbWUgD8dr2UNe
-TRX -   TBGsETLni6zfKbqhWLNanJ8DtswXgMcXoq 
+@allcollectionvDM
 
 
 Bitcoin Address:
 ⭐ BITCOIN Address  with Network 🛜 
 
 
-BTC -   15cxVVopFtrG3wxsjJEYj5LTEFFyb6sQ7P
-ETH -     0x22c9fe0319ddad833f3fe13fb942140aa79dff34 
-BSC -   0x22c9fe0319ddad833f3fe13fb942140aa79dff34
+@allcollectionvDM
 """
 
 PACKAGE_DETAILS = """
@@ -182,7 +178,7 @@ PACKAGE_DETAILS = """
 \n⭐ʙʟᴏᴡ ᴊᴏʙ/ꜱᴜᴄᴋɪɴɢ
 \n⭐ʀᴜꜱꜱɪᴀɴ (ɢʀᴏᴜᴘ)
 
-\n ᴘʀɪᴄᴇ - 1999₹ 🪙  @Raniivideo 
+\n ᴘʀɪᴄᴇ - 1999₹ 🪙  @allcollectionvDM
 \n ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴘʀɪᴄᴇ - 99$💰
 
 \n 500 ɢʙ ᴍᴇɢᴀ ʟɪɴᴋ ꜰʀᴇᴇ📍
@@ -260,7 +256,7 @@ def payment_page_keyboard():
         [
             InlineKeyboardButton(
                 "📸 Send Payment Screenshot For verification",
-                url="https://t.me/Raniivideo"
+                url="https://t.me/allcollectionvDM"
             )
         ],
         [
